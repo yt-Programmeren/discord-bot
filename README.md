@@ -1,2 +1,2 @@
 # discord-bot
-Made in this video: https://youtu.be/KOdLT2igFpk, 
+Made in these videos: https://youtu.be/KOdLT2igFpk, https://youtu.be/eHOFnQ_K-nM. 
