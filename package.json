@@ -1,0 +1,17 @@
+{
+  "name": "DiscordBotTutorial",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "dev": "nodemon .",
+    "start": "node ."
+  },
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

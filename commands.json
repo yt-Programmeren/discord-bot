@@ -1,0 +1,4 @@
+{
+    "hello":"./commands/hello",
+    "userinfo": "./commands/userinfo"
+}
